@@ -1,6 +1,6 @@
 <?php
 
-namespace Arafat\LaravelRepository\Facades;
+namespace Arafat\Repository\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

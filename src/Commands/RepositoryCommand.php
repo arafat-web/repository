@@ -1,6 +1,6 @@
 <?php
 
-namespace Arafat\LaravelRepository\Commands;
+namespace Arafat\Repository\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Str;

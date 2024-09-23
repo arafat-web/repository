@@ -1,8 +1,8 @@
 <?php
 
-namespace Arafat\LaravelRepository;
+namespace Arafat\Repository;
 
-use Arafat\LaravelRepository\Commands\RepositoryCommand;
+use Arafat\Repository\Commands\RepositoryCommand;
 use Illuminate\Support\ServiceProvider;
 
 class RepositoryServiceProvider extends ServiceProvider
