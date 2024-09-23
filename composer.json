@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Arafat\\LaravelRepository\\": "src/"
+            "Arafat\\Repository\\": "src/"
         }
     },
     "authors": [
@@ -24,10 +24,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Arafat\\LaravelRepository\\RepositoryServiceProvider"
+                "Arafat\\Repository\\RepositoryServiceProvider"
             ],
             "aliases": {
-                "Repository": "Arafat\\LaravelRepository\\RepositoryFacade"
+                "Repository": "Arafat\\Repository\\RepositoryFacade"
             }
         }
     }
